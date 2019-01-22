@@ -1,6 +1,7 @@
-# hello_express
-git clone this repository
-npm install 
+# nodejs-restapi
+Build scalable node.js restapi using express.js
+
+Start the app 
 npm start
 
-then server is running on http://localhost:3010
+find tutorial for this on www.codesquery.com
